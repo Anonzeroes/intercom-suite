@@ -1,4 +1,6 @@
-![photo_2026-02-15_21-20-47](https://github.com/user-attachments/assets/bc2715d2-1d3d-4181-ab98-f97bb1c12762) # 🚀 Intercom Suite — Termux Automation Toolkit
+track address " trac1mujqz79ft4drmn4w7xdxux25lrsdqwvd3pxu3rgsl5rnpzcsq7mq9fegmc" 
+![photo_2026-02-15_21-20-47](https://github.com/user-attachments/assets/bc2715d2-1d3d-4181-ab98-f97bb1c12762) 
+# 🚀 Intercom Suite — Termux Automation Toolkit
 
 **Intercom Suite** is a powerful all-in-one automation toolkit designed for **Termux users**, combining:
 
