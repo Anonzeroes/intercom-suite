@@ -1,8 +1,9 @@
-# 🚀 Intercom Suite — Termux Automation Toolkit
+![photo_2026-02-15_21-20-47](https://github.com/user-attachments/assets/bc2715d2-1d3d-4181-ab98-f97bb1c12762) # 🚀 Intercom Suite — Termux Automation Toolkit
 
 **Intercom Suite** is a powerful all-in-one automation toolkit designed for **Termux users**, combining:
 
 - 🔐 GitHub authentication & repository management  
+
 - 👛 Multi-chain wallet tracking (EVM, Solana, TRAC)  
 - 🔎 Direct blockchain explorer integration  
 - 🔄 Safe swap link generator (Uniswap, 1inch, Jupiter)  
