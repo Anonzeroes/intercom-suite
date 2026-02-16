@@ -17,6 +17,8 @@ Built for speed, simplicity, and real on-device control — **no cloud required*
 
 ## ✨ Features
 
+- **ANONZEROES** — NOTHING TO NOTHING ([repo](https://github.com/Anonzeroes/intercom))
+
 - **GitHub Integration**
   - Secure token login  
   - Clone public & private repositories  
